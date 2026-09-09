@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-profile-terminal.png" width="100%" alt="Mohammad Rizky Arfiyanto — Data Analyst and Web Developer" />
+<img src="./github-profile-terminal.png" width="100%" alt="Mohammad Rizky Arfiyanto — Data Analyst and Web Developer" />
 
 </div>
 
